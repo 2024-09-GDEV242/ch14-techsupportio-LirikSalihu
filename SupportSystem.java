@@ -12,7 +12,7 @@ import java.util.HashSet;
  * output until the users wants to leave.
  * 
  * @author David J. Barnes and Michael Kölling.
- * @version 2016.02.29
+ * @version 2024.12.04
  */
 public class SupportSystem
 {
